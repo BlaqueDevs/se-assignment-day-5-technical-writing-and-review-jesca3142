@@ -13,7 +13,7 @@ Use Simple Language : use a language that is easy to understand
 Structure Your Writing : visualize and organise your content in a way that it can impact engagement .
 
 
-## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon? 
 1.conduct a research using questionnaires .
 2.pay more attention to understand which content the audience pays more attension to
 3.ask the audience to say which content they are familier with
